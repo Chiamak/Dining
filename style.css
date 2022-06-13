@@ -1,0 +1,250 @@
+
+
+#buttons{
+    border:2px solid black;
+    margin:10px;
+    justify-content:center;
+}
+#buttons button{
+    margin:5px;
+}
+
+#DELIVERY{
+    margin:0 auto;
+    background:indianred;
+    height: 150vh;
+}
+#heading{
+    justify-content:center;
+}
+marquee{
+    margin-left: 30%;
+}
+#h1{
+    color:burlywood;
+    font-size:50px;
+    text-align:center;
+    font-family: serif;
+    font-weight: bold;
+    padding-top: 25px;
+    text-shadow: 3px 3px black;
+}
+#formula{
+    display:flex;
+    border:3px solid black;
+    border-radius: 20px;
+    border: none;
+    margin:10px;
+    background-color: crimson;
+    box-shadow: 3px 3px 3px 3px black;
+}
+.flex-box1{
+    border:3px dashed black;
+    border-radius: 10px;
+    border: none;
+    color:crimson;
+    background:black;
+}
+.flex-box1 h2{
+    color:red;
+    font-size: 30px;
+    font-family: monospace;
+}
+.flex-box1 table{
+    margin-top: 10px;
+}
+.flex-box1 table thead{
+    color: ghostwhite;
+}
+.flex-box1 table thead tr th{
+    width: 150px;
+    text-align: center;
+    font-weight: bolder;
+}
+.flex-box1 table tbody{
+    color: indianred;
+}
+.flex-box1 table tbody tr td{
+    width: 150px;
+    text-align: center;
+    font-size: 20px;
+    word-spacing: 3px;
+    font-family: fantasy;
+}
+#div1 div{
+    margin-left: 10px;
+    color: darkorange;
+    text-align: left;
+    font-size: 20px;
+    font-family: tahoma;
+}
+#form{
+    color:white;
+    justify-content:center;
+    padding:15px;
+    margin:20px;
+    float:left;
+}
+#none{
+    border:2px groove  black;
+    border-radius: 8px;
+    padding:5px;
+    background:darksalmon;
+}
+#food{
+    border:3px solid olive;
+    border-radius: 3px;
+    background:linear-gradient(darkgray,moccasin,crimson);
+    justify-content: center;
+    padding:10px;
+    margin:10px;
+}
+#food h1{
+    text-align:center;
+    color:crimson;
+    font-family:fantasy;
+}
+#food input[type="button"]{
+    justify-content: space-between;
+    background:red;
+    color:darkgrey;
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 3px;
+    width:100px;
+}
+#food input[value]{
+    font-size:15px ;
+}
+#number{
+    position: absolute;
+    margin-left:-20px;
+    margin-top: 15px;
+    background: transparent;
+    border: none;
+    color:black;
+}
+#food button{
+    background:darkslategray;
+    color:red;
+    width:50px;
+    font-size: 15px;
+}
+#none ul{
+    list-style: none;
+    justify-items:center;
+    padding-left:10px;
+}
+#drinks{
+    border:3px groove darkgreen;
+    border-radius: 5px;
+    background:linear-gradient(darkgray,darkkhaki, burlywood );
+    padding:10px;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+#drinks h1{
+    text-align:center;
+    color:darkred;
+    font-family:cursive;
+}
+#drinks input[type="button"]{
+    justify-content:space-between;
+    background:darkgray;
+    color:black;
+    margin-bottom:3px;
+    width:150px;
+}
+#drinks input[value]{
+    font-size: 15px;
+}
+#drinks button{
+    background:black;
+    color:darkgray;
+    width:50px;
+    font-size: 15px;
+}
+#icecream{
+    border:3px solid olivedrab;
+    background:radial-gradient(crimson, orange, orangered);
+    margin:10px;
+}
+#icecream h1{
+    text-align:center;
+    color:yellow;
+    font-family: 'Times New Roman', Times, serif;
+}
+#icecream input[type="button"]{
+    justify-content:space-between;
+    background:darkred;
+    color:tan;
+    width:150px;
+    margin-bottom:3px;
+}
+#icecream input[value]{
+    font-size: 15px;
+}
+#icecream button{
+    background:tan;
+    color:darkred;
+    font-size: 15px;
+    width:55px;
+}
+label{
+    font-size:30px;
+}
+input{
+    border:1px outset darkgreen;   
+}
+input[type="text"]:hover{
+    background:black;
+    color:white;
+}
+#show{
+    margin-top: 5px;
+    display: flex;
+}
+#number{
+    width:20px;
+}
+#ORDER{
+    list-style: none;
+    border:1px solid white;
+    border-radius: 10px;
+    border: none;
+    width:150px;
+    background:black ;
+    color:orangered;
+    font-family: Arial, Helvetica, sans-serif;
+    justify-items:center;
+    padding-left: 10px;
+}
+#ORDER li{
+    padding: 3px 0px;
+    font-size: 18px;
+}
+#PRICE{
+    list-style: none;
+    width:60px;
+    background:darkslategray;
+    color:orange;
+    font-family: monospace;
+    justify-items:center;
+    border:1px solid black;
+    border-radius: 10px;
+    border: none;
+    margin-left:15px;
+    font-size: 15px;
+    padding-left:10px; 
+}
+#PRICE li{
+    padding: 5px 0px;
+}
+#selection{
+    border:1px outset darkgreen;
+    background:coral;
+    color:black;
+}
+h2{
+    color:goldenrod;
+}
